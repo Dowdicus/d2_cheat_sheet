@@ -1,5 +1,8 @@
 # Diablo 2 Cheat Sheet
 
+**CUSTON:**
+* [DOWDICUS' CHEAT SHEET](https://dowdicus.github.io/d2_cheat_sheet/)
+
 **NEW:** (Desktop)
 * [D2 Cheat Sheet](https://michaelangel007.github.io/d2_cheat_sheet/)
 
